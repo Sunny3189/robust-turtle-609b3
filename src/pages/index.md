@@ -80,9 +80,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Indian Music
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Devotional and Bollywood Music CD's Available here.
     actions:
       - label: Learn More
         url: /features
