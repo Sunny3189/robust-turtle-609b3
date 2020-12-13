@@ -57,7 +57,7 @@ sections:
 
           * Rice, Sauces, Snacks, Soup Mix, Spices, Spices Mix. 
 
-          * Wide range of traditional and western clothing.t
+          * Wide range of traditional and western clothing.
         align: left
         image_position: right
         actions: []
