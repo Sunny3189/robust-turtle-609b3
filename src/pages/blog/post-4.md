@@ -1,6 +1,6 @@
 ---
 title: Frozen Indian Food.
-date: '2020-12-30'
+date: '2020-12-06'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
