@@ -1,5 +1,5 @@
 ---
-title: Prabhjot Singh
+title: Contact
 excerpt: lorem-ipsum
 template: page
 ---
