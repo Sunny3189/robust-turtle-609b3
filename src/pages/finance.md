@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Finance
 excerpt: lorem-ipsum
 template: page
 ---
