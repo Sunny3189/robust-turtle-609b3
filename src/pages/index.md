@@ -31,10 +31,7 @@ sections:
         align: left
         image: images/feature.svg
         image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Products
         content: >-
           *  Fruit and vegetables 
