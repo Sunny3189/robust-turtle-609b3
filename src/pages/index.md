@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Heritage of India
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Taste the spices of home away from home
     actions:
       - label: Learn More
         url: /features
