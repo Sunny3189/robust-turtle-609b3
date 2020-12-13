@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: BIO
 excerpt: lorem-ipsum
 template: page
 ---
