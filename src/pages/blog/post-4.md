@@ -9,9 +9,9 @@ tags:
   - Sourcebit
 image: images/4.png
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  we provide Ready to eat Dal, Roti,  Paratha, Stuffed Naan, Fresh Vegetables,
+  pickles, Frozen Vegetables, Indian Sweet Dishesh Such as GAzar ka Halwa, ladu,
+  Rasgulla etc.
 template: post
 ---
 
