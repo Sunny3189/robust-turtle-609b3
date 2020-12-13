@@ -10,7 +10,7 @@ tags:
 image: images/4.png
 excerpt: >-
   we provide Ready to eat Dal, Roti,  Paratha, Stuffed Naan, Fresh Vegetables,
-  pickles, Frozen Vegetables, Indian Sweet Dishesh Such as GAzar ka Halwa, ladu,
+  pickles, Frozen Vegetables, Indian Sweet Dishesh Such as Gazar ka Halwa, ladu,
   Rasgulla etc.
 template: post
 ---
