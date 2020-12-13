@@ -3,9 +3,9 @@ title: Prabhjot Singh
 excerpt: lorem-ipsum
 template: page
 ---
-> ***Contact***
+>  For all enquries, contact us using the information below.
 
-For all enquries, contact us using the information below.
+
 
 * **Mobile - +1 (705) 255-1356**
 
