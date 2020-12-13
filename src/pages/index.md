@@ -59,7 +59,7 @@ sections:
 
           * Wide range of traditional and western clothing.t
         align: left
-        image_position: left
+        image_position: right
         actions: []
         type: feature
         image: images/5cce31c3c20f0f4fa192572d652107f0f6404ffe.jpeg
