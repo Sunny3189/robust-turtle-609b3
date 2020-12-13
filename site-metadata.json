@@ -37,7 +37,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Finance",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
