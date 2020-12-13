@@ -6,7 +6,7 @@ sections:
     subtitle: Taste the spices of home away from home
     actions: []
     align: left
-    image: images/hero.svg
+    image: images/download (1).jpg
     image_position: right
     has_background: true
     background:
