@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact US
 sections:
   - type: hero_section
     title: Contact
