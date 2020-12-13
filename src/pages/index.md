@@ -62,6 +62,7 @@ sections:
         image_position: left
         actions: []
         type: feature
+        image: images/5cce31c3c20f0f4fa192572d652107f0f6404ffe.jpeg
   - type: blog_feed_section
     title: What We Offer
     show_recent: true
