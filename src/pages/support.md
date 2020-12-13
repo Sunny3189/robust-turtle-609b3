@@ -3,9 +3,11 @@ title: Prabhjot Singh
 excerpt: lorem-ipsum
 template: page
 ---
-## Lorem ipsum
+> ***Contact***
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+For all enquries, contact us using the information below.
 
-- Lorem ipsum
-- dolor sit amet
+* **Mobile - +1 (705) 255-1356**
+
+
+* **Email-prabh.singh8931@gmail.com**
