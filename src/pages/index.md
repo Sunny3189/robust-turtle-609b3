@@ -32,22 +32,6 @@ sections:
         image: images/main-qimg-307c7c99c8cd05653ed9ee8691e5624a.webp
         image_position: left
         actions: []
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        align: left
-        image_position: left
-        actions: []
-        type: feature
   - type: blog_feed_section
     title: What We Offer
     show_recent: true
