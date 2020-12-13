@@ -83,7 +83,7 @@ sections:
     subtitle: Devotional and Bollywood Music CD's Available here.
     actions:
       - label: Learn More
-        url: /features
+        url: ''
         style: primary
     has_background: true
     background_color: gray
