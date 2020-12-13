@@ -39,10 +39,7 @@ sections:
   - type: cta_section
     title: Indian Music
     subtitle: Devotional and Bollywood Music CD's Available here.
-    actions:
-      - label: Learn More
-        url: ''
-        style: primary
+    actions: []
     has_background: true
     background_color: gray
 template: advanced
