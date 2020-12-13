@@ -25,10 +25,7 @@ sections:
         align: left
         image: images/feature.svg
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Offers
         content: '  **Heritage of India grocery store is in the grocery store industry to establish a specialty Indian grocery store and we will ensure we make available a wide range of goods and products from top manufacturing brands.**'
         align: left
