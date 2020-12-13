@@ -12,7 +12,7 @@ sections:
     background:
       background_color: gray
       background_image: images/download.jpg
-      background_image_opacity: 20
+      background_image_opacity: 40
       background_image_size: contain
       background_image_repeat: repeat
   - type: features_section
