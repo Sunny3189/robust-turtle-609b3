@@ -32,6 +32,37 @@ sections:
         image: images/main-qimg-307c7c99c8cd05653ed9ee8691e5624a.webp
         image_position: left
         actions: []
+      - title: Products
+        content: >-
+          * Fruit and vegetables 
+
+          * Atta(wheat flour), Ayurvedic, Candies & Cookies 
+
+          * Chutney (Indian Sauces) 
+
+          * Dals & Beans, Dry Food, lentils. 
+
+          Wide range of Audio collection devotional and Bollywood songs. 
+          Fasting Product such as Kuttu Flour chick peas. 
+
+          * Wide range of Frozen readymade food, vegetable, breads, paranthas,
+          roti. 
+
+          * Generic, Ice-Cream and Juices. 
+
+          * Khakhra, Meat, and Milk Products. 
+
+          * Indian Street Food, Noodles, Oil, Pan Masala, Pappad, Pickles,
+          Produce. 
+
+          * Rice, Sauces, Snacks, Soup Mix, Spices, Spices Mix. 
+
+          * Wide range of traditional and western clothing.
+        align: left
+        image_position: right
+        actions: []
+        type: feature
+        image: images/5cce31c3c20f0f4fa192572d652107f0f6404ffe.jpeg
   - type: blog_feed_section
     title: What We Offer
     show_recent: true
