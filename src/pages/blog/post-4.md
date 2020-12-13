@@ -7,7 +7,7 @@ categories:
 tags:
   - JAMstack
   - Sourcebit
-image: images/UTB8rJs4xSnEXKJk43Ubq6zLppXaE.jpg_350x350.jpg
+image: images/indian-spices.png
 excerpt: >-
   we provide Ready to eat Dal, Roti,  Paratha, Stuffed Naan, Fresh Vegetables,
   pickles, Frozen Vegetables, Indian Sweet Dishesh Such as Gazar ka Halwa, ladu,
