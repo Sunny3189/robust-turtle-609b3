@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Prabhjot Singh
 excerpt: lorem-ipsum
 template: page
 ---
