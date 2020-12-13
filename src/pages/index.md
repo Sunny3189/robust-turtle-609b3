@@ -34,16 +34,30 @@ sections:
         actions: []
       - title: Products
         content: >-
-          ## Lorem ipsum
+          * Fruit and vegetables 
 
+          * Atta(wheat flour), Ayurvedic, Candies & Cookies 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          * Chutney (Indian Sauces) 
 
+          * Dals & Beans, Dry Food, lentils. 
 
-          - Lorem ipsum
+          Wide range of Audio collection devotional and Bollywood songs. 
+          Fasting Product such as Kuttu Flour chick peas. 
 
-          - dolor sit amet
+          * Wide range of Frozen readymade food, vegetable, breads, paranthas,
+          roti. 
+
+          * Generic, Ice-Cream and Juices. 
+
+          * Khakhra, Meat, and Milk Products. 
+
+          * Indian Street Food, Noodles, Oil, Pan Masala, Pappad, Pickles,
+          Produce. 
+
+          * Rice, Sauces, Snacks, Soup Mix, Spices, Spices Mix. 
+
+          * Wide range of traditional and western clothing.t
         align: left
         image_position: left
         actions: []
