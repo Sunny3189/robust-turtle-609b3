@@ -5,24 +5,45 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
-                "url": "/features",
+                "label": "Home",
+                "url": "https://app.stackbit.com/studio/5fd609b33c000a001559086f",
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Vision",
+                "url": "https://app.stackbit.com/studio/5fd609b33c000a001559086f#/vision",
                 "style": "link"
             },
             {
-                "label": "About",
-                "url": "/about",
+                "label": "Strategies",
+                "url": "https://app.stackbit.com/studio/5fd609b33c000a001559086f#/strategies",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Risk",
                 "url": "/style-guide",
                 "style": "link"
+            },
+            {
+                "label": "Marketing",
+                "url": "https://app.stackbit.com/studio/5fd609b33c000a001559086f#/marketing",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
+            },
+            {
+                "label": "Finance",
+                "url": "https://app.stackbit.com/studio/5fd609b33c000a001559086f#/finance",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
+            },
+            {
+                "label": "Github",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
             },
             {
                 "label": "Contact Us",
@@ -36,7 +57,7 @@
         "nav_links": [
             {
                 "label": "Contact Us",
-                "url": "/contact",
+                "url": "https://app.stackbit.com/studio/5fd609b33c000a001559086f#/support",
                 "style": "link"
             },
             {
@@ -55,7 +76,7 @@
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/Sunny3189",
                 "style": "link",
                 "new_window": true
             },
@@ -66,7 +87,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit-Starter. All rights reserved.",
+        "content": "&copy; Prabhjot Singh. All rights reserved.",
         "links": [
             {
                 "label": "Made with Stackbit.",

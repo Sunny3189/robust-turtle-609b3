@@ -3,34 +3,28 @@ title: Home
 sections:
   - type: hero_section
     title: Heritage of India
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Taste the spices of home away from home
     actions:
       - label: Learn More
         url: /features
         style: primary
-      - label: Contact Us
-        url: /contact
-        style: secondary
     align: left
     image: images/hero.svg
     image_position: right
     has_background: true
     background:
       background_color: blue
-      background_image: images/diagonal-lines.svg
+      background_image: images/download.jpg
       background_image_opacity: 20
-      background_image_size: auto
+      background_image_size: cover
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: Value Proposition
     features:
-      - title: Feature 1
+      - title: Online Delivery
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Best Indian regional products easily available at fair price on your
+          doorsteps.
         align: left
         image: images/feature.svg
         image_position: right
@@ -38,11 +32,8 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+      - title: Offers
+        content: '  **Heritage of India grocery store is in the grocery store industry to establish a specialty Indian grocery store and we will ensure we make available a wide range of goods and products from top manufacturing brands.**'
         align: left
         image: images/feature.svg
         image_position: left
@@ -50,11 +41,32 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 3
+      - title: Products
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          *  Fruit and vegetables 
+
+          *  Atta(wheat flour), Ayurvedic, Candies & Cookies 
+
+          *  Chutney (Indian Sauces) 
+
+          *  Dals & Beans, Dry Food, lentils. 
+
+          *  Wide range of Audio collection devotional and Bollywood songs. 
+          Fasting Product such as Kuttu Flour chick peas. 
+
+          *  Wide range of Frozen readymade food, vegetable, breads, paranthas,
+          roti. 
+
+          *  Generic, Ice-Cream and Juices. 
+
+          *  Khakhra, Meat, and Milk Products. 
+
+          *  Indian Street Food, Noodles, Oil, Pan Masala, Pappad, Pickles,
+          Produce. 
+
+          *  Rice, Sauces, Snacks, Soup Mix, Spices, Spices Mix. 
+
+          *  Wide range of traditional and western clothing.
         align: left
         image: images/feature.svg
         image_position: right
@@ -63,17 +75,15 @@ sections:
             url: /features
             style: secondary
   - type: blog_feed_section
-    title: What's New
+    title: What We Offer
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: Indian Music
+    subtitle: Devotional and Bollywood Music CD's Available here.
     actions:
       - label: Learn More
-        url: /features
+        url: ''
         style: primary
     has_background: true
     background_color: gray
