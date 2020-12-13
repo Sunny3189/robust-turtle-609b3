@@ -33,7 +33,7 @@
             },
             {
                 "label": "Finance",
-                "url": "lorem-ipsum",
+                "url": "https://app.stackbit.com/studio/5fd609b33c000a001559086f#/finance",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
