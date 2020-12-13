@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: Heritage of India
     subtitle: Taste the spices of home away from home
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
     align: left
     image: images/hero.svg
     image_position: right
