@@ -1,6 +1,6 @@
 ---
 title: Indian Traditional Clothings
-date: '2020-07-02'
+date: '2020-12-06'
 author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml
