@@ -3,9 +3,6 @@ title: BIO
 excerpt: lorem-ipsum
 template: page
 ---
-## Lorem ipsum
+## Prabhjot Singh
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Prabhjot Singh is B.C.A. and Networking System administrator and also has 6 years of experience in retail industry while working with father grocery business in India.
