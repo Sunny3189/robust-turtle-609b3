@@ -32,7 +32,7 @@ sections:
         image: images/main-qimg-307c7c99c8cd05653ed9ee8691e5624a.webp
         image_position: left
         actions: []
-      - title: lorem-ipsum
+      - title: Products
         content: >-
           ## Lorem ipsum
 
