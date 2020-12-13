@@ -9,9 +9,9 @@ tags:
   - JAMstack
 image: images/3.png
 excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+  We sell Indian Spices, from east to west, north to south. Every Regional
+  Spices we provide so the students or international travellers do not feel away
+  from home. 
 template: post
 ---
 
