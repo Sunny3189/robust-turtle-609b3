@@ -32,16 +32,16 @@
                 "type": "action"
             },
             {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "primary"
-            },
-            {
                 "label": "Finance",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
+            },
+            {
+                "label": "Contact Us",
+                "url": "/contact",
+                "style": "primary"
             },
             {
                 "label": "Github",
