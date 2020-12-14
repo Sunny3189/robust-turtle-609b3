@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Indain Traditional Cloths
 date: '2020-12-14'
 categories: []
 tags: []
