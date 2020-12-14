@@ -3,7 +3,9 @@ title: Indain Traditional Cloths
 date: '2020-12-14'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: >-
+  Indian traditional dresses for men and women. Regional wise dress ranges,
+  Kurta Payjama, Sarees, Suit Salwar, Dhoti, turbans. 
 template: post
 image: images/groovy-whale.jpg
 ---
