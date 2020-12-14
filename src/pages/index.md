@@ -10,7 +10,7 @@ sections:
       clothing for the celebrations such as Diwali, Holi etc. Come and get the
       essence of Indian food and culture.”
     actions: []
-    align: left
+    align: right
     image: images/good-bee.jpg
     image_position: right
     has_background: true
