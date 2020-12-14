@@ -8,6 +8,7 @@ excerpt: >-
   Kurta Payjama, Sarees, Suit Salwar, Dhoti, turbans. 
 template: post
 image: images/groovy-whale.jpg
+author: src/data/team/person-rtxr4c82h.json
 ---
 ## Lorem ipsum
 
