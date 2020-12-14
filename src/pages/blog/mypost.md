@@ -1,5 +1,5 @@
 ---
-title: Indian Traditional Cloths
+title: Indian Traditional Clothing
 date: '2020-12-14'
 categories: []
 tags: []
