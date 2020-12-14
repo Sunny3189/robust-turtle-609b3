@@ -6,7 +6,8 @@ sections:
     subtitle: Taste the spices of home away from home
     actions: []
     align: left
-    image: images/download (1).jpg
+    image: >-
+      images/set-indian-spices-wooden-table-top-view-big-horizontal-image-83830359.jpg
     image_position: right
     has_background: true
     background:
