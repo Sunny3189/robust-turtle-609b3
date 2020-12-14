@@ -3,7 +3,12 @@ title: Home
 sections:
   - type: hero_section
     title: Heritage of India
-    subtitle: Taste the spices of home away from home.
+    subtitle: >-
+      Taste the spices of home away from home. “People coming from India and
+      overseas missing their food and culture in Canada, we provide them feel
+      and spices of home in Canada. From Indian groceries to the traditional
+      clothing for the celebrations such as Diwali, Holi etc. Come and get the
+      essence of Indian food and culture.”
     actions: []
     align: left
     image: images/good-bee.jpg
