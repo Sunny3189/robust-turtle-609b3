@@ -13,7 +13,7 @@ sections:
     align: center
     image: images/good-bee.jpg
     image_position: right
-    has_background: true
+    has_background: false
     background:
       background_color: gray
       background_image: images/download.jpg
