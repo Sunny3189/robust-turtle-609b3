@@ -5,6 +5,7 @@ categories: []
 tags: []
 excerpt: lorem-ipsum
 template: post
+image: images/groovy-whale.jpg
 ---
 ## Lorem ipsum
 
