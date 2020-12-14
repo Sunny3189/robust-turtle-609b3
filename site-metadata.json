@@ -33,7 +33,7 @@
             },
             {
                 "label": "Finance",
-                "url": "https://app.stackbit.com/studio/5fd609b33c000a001559086f#/finance",
+                "url": "/finance",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
