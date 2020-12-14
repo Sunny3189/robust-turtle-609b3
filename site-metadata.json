@@ -58,7 +58,7 @@
             {
                 "label": "Contact Us",
                 "url": "/support",
-                "style": "link"
+                "style": "secondary"
             }
         ],
         "has_social": true,
